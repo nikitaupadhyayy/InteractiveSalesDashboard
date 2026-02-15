@@ -30,6 +30,3 @@ This project is an end-to-end Business Intelligence solution built in Microsoft 
 
 ### 🎥 Demo
 A demo walkthrough video of the dashboard is available in this repository.
-
-- **Manage Assets**:  
-  Add or replace images, icons, and other media in the `images` folder.
