@@ -27,6 +27,3 @@ This project is an end-to-end Business Intelligence solution built in Microsoft 
 
 ### 🎓 Certification
 **This project was completed as part of a Udemy Power BI course, for which I earned a completion certificate demonstrating proficiency in Power BI fundamentals and end-to-end reporting workflows.**
-
-### 🎥 Demo
-A demo walkthrough video of the dashboard is available in this repository.
